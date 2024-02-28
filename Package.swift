@@ -31,7 +31,7 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixSourceManager",
           url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "__au10tixmobile_Checksum__"
+          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
         ),
         .binaryTarget(
           name: "Au10tixNFCPassportKit",
