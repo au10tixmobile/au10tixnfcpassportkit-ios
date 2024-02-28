@@ -31,12 +31,12 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixSourceManager",
           url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
+          checksum: "__au10tixmobile_Checksum__"
         ),
         .binaryTarget(
           name: "Au10tixNFCPassportKit",
           url: "https://github.com/au10tixmobile/Au10tixNFCPassportKit/archive/refs/tags/3.28.0.zip",
-          checksum: "230b29c7c5fd1db1bbc3b0ed820f1e17ada61a583e8dcf333701517699a4371a"
+          checksum: "a55e469980bca2adec5daae414f1379d9ac40bf2df72859ca3fec9cd4b87996c"
         )
     ]
 )
