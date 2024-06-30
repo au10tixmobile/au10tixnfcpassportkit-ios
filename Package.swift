@@ -23,8 +23,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixNFCPassportKit",
-          url: "https://github.com/au10tixmobile/Au10tixNFCPassportKit/archive/refs/tags/4.1.0.zip",
-          checksum: "b6620776432252e0eede06865f87b19e3b5d09859fee9c1e5c2d096c8416236b"
+          url: "https://github.com/au10tixmobile/Au10tixNFCPassportKit/archive/refs/tags/4.2.0.zip",
+          checksum: "9e4d0a68bc70c3fbecb2ea5a1cf663fdf66813839ccb75c69a28449356798fcb"
         )
     ]
 )
